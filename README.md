@@ -1,5 +1,5 @@
 # Cryptovest
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+![Cryptoverse]
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
