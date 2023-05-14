@@ -6,26 +6,28 @@ https://user-images.githubusercontent.com/75751123/189751806-e6e4a5dc-7963-44b8-
 
 ## INTRODUCTION
 
-The Crypto Vest web app is a simple and easy-to-use tool for tracking your cryptocurrency investments. Built with JavaScript, CSS, and HTML, this app allows you to easily monitor the value of your crypto assets and stay up-to-date on the latest market trends.
+The Crypto Vest web app is a powerful tool for tracking and managing your cryptocurrency investments. Built with JavaScript, CSS, Restful APIs, and HTML, this app allows you to easily monitor the value of your crypto assets and stay up-to-date on the latest market trends.
 
 ## FEATURES
 Some of the key features of the Crypto Vest web app include:
 
-Simple and intuitive user interface
-Real-time updates on the value of your crypto assets
-Support for a wide range of cryptocurrencies, including Bitcoin, Ethereum, and more
-Ability to view detailed charts and graphs of your portfolio's performance
-Customizable settings and alerts for price changes and market trends
+* Simple and intuitive user interface
+* Real-time updates on the value of your crypto assets
+* Support for a wide range of cryptocurrencies, including Bitcoin, Ethereum, and more
+* Integration with Restful APIs to fetch data for various cryptocurrencies
+* Ability to view detailed charts and graphs of your portfolio's performance
+* Customizable settings and alerts for price changes and market trends
 
 ## GETTING STARTED
-To use the Crypto Vest web app, simply navigate to the app's homepage and create an account. Once you've signed up, you can start tracking your crypto investments right away.
+To use the Crypto Vest web app, simply navigate to the app's homepage and create an account. Once you've signed up, you can start tracking your crypto investments right away. The app fetches data from various Restful APIs to provide real-time updates on the value of your assets.
 
 ## TECHNOLOGIES USED
 The Crypto Vest web app is built using the following technologies:
 
-JavaScript
-CSS
-HTML
+* JavaScript
+* CSS
+* HTML
+* Restful APIs
 
 ## CONTRIBUTING
 If you're interested in contributing to the Crypto Vest web app, please feel free to fork this repository and submit a pull request with your changes. We welcome all contributions and will do our best to review and merge them in a timely manner.
